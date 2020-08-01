@@ -4,3 +4,6 @@
 [submodule "Hotel-Accomodation"]
 	path = Hotel-Accomodation
 	url = https://github.com/codemaster-22/Hotel-Accomodation.git
+[submodule "TAs-and-Lab-Instructor"]
+	path = TAs-and-Lab-Instructor
+	url = https://github.com/codemaster-22/TAs-and-Lab-Instructor.git
