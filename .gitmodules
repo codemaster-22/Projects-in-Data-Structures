@@ -16,3 +16,6 @@
 [submodule "Company-Advertising-Strategy"]
 	path = Company-Advertising-Strategy
 	url = https://github.com/codemaster-22/Company-Advertising-Strategy.git
+[submodule "Minimum-Weighted-Path"]
+	path = Minimum-Weighted-Path
+	url = https://github.com/codemaster-22/Minimum-Weighted-Path.git
