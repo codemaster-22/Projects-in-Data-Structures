@@ -1,3 +1,6 @@
 [submodule "Hospital-Management-System"]
 	path = Hospital-Management-System
 	url = https://github.com/codemaster-22/Hospital-Management-System.git
+[submodule "Hotel-Accomodation"]
+	path = Hotel-Accomodation
+	url = https://github.com/codemaster-22/Hotel-Accomodation.git
