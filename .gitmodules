@@ -7,3 +7,9 @@
 [submodule "TAs-and-Lab-Instructor"]
 	path = TAs-and-Lab-Instructor
 	url = https://github.com/codemaster-22/TAs-and-Lab-Instructor.git
+[submodule "Order-The-Tasks"]
+	path = Order-The-Tasks
+	url = https://github.com/codemaster-22/Order-The-Tasks.git
+[submodule "Priority-Scheduling-With-Preemption"]
+	path = Priority-Scheduling-With-Preemption
+	url = https://github.com/codemaster-22/Priority-Scheduling-With-Preemption.git
